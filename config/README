@@ -1,0 +1,4 @@
+ 项目配置
+ dev.env.js：开发环境变量
+ index.js：项目配置文件
+ prod.env.js：生产环境变量
